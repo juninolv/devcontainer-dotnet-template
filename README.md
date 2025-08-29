@@ -82,6 +82,4 @@ docker version
 
 Sempre siga as boas práticas de contribuição do repositório original.
 
-[Licença](./LICENSE)
-
-Distribuído sob a licença MIT – sinta‑se livre para usar, modificar e distribuir conforme suas necessidades.
+Distribuído sob a [Licença MIT](./LICENSE) – sinta‑se livre para usar, modificar e distribuir conforme suas necessidades.
