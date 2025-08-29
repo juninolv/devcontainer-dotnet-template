@@ -1,0 +1,1 @@
+# devcontainer-dotnet-template
